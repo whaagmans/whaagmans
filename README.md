@@ -2,7 +2,7 @@
 <img align="right" alt="GIF" src="https://github-readme-stats.vercel.app/api?username=Redeamerz&show_icons=true&theme=dark&count_private=true"  />
 <br/>
 
-- 🔭 I graduated in Software Engineering (HBO-ICT) at Fontys University Eindhoven.
+- 🎓 I graduated in Software Engineering (HBO-ICT) at Fontys University Eindhoven.
 - 💻 I’m currently a freelance Full-stack developer at [YoungOnes](https://youngones.com/);
 - 📫 How to reach me: <p>
     <a href="https://www.linkedin.com/in/wesley-haagmans/">

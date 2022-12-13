@@ -3,7 +3,6 @@
 <br/>
 
 - 🎓 I graduated in Software Engineering at Fontys University Eindhoven.
-- 💻 I’m currently a freelance Full-stack developer at [YoungOnes](https://youngones.com/);
 - 📫 How to reach me: <p>
     <a href="https://www.linkedin.com/in/wesley-haagmans/">
     <img  alt="Wesley's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

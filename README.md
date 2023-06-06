@@ -1,7 +1,7 @@
 ## Hi, I'm Wesley Haagmans 👋
 
 - 🎓 I graduated in Software Engineering at Fontys University Eindhoven.
-- 🔭 I’m currently working on [polly](https://github.com/Redeamerz/polly)
+- 🔭 I’m currently working on [polly](https://github.com/whaagmans/polly)
 - 📫 How to reach me:
     <a href="https://www.linkedin.com/in/wesley-haagmans/">
     <img  alt="Wesley's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />
@@ -16,12 +16,12 @@
 
 ### 📊 GitHub Stats:
 
-![](https://github-readme-stats.vercel.app/api?username=Redeamerz&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Redeamerz&theme=react&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Redeamerz&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=whaagmans&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=whaagmans&theme=react&hide_border=true)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=whaagmans&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 
 ### 🏆 GitHub Trophies
-[![](https://visitcount.itsvg.in/api?id=Redeamerz&icon=9&color=1)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=whaagmans&icon=9&color=1)](https://visitcount.itsvg.in)
 
-![](https://github-profile-trophy.vercel.app/?username=Redeamerz&theme=discord&no-frame=true&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=whaagmans&theme=discord&no-frame=true&no-bg=true&margin-w=4)

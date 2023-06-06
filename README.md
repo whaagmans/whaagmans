@@ -1,7 +1,8 @@
 ## Hi, I'm Wesley Haagmans 👋
 
 - 🎓 I graduated in Software Engineering at Fontys University Eindhoven.
-- 🔭 I’m currently working on [polly](https://github.com/whaagmans/polly)
+- 💻 I’m currently working as a backend developer at Blink.
+- 🔭 My current hobby project [polly](https://github.com/whaagmans/polly)
 - 📫 How to reach me:
     <a href="https://www.linkedin.com/in/wesley-haagmans/">
     <img  alt="Wesley's LinkedIn" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/linkedin.svg" />

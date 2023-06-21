@@ -1,7 +1,7 @@
 ## Hi, I'm Wesley Haagmans 👋
 
 - 🎓 I graduated in Software Engineering at Fontys University Eindhoven.
-- 💻 I’m currently working as a backend developer at Blink.
+- 💻 I’m currently working as a backend developer at [Blink](https://blink.nl/).
 - 🔭 My current hobby project [aciify](https://github.com/whaagmans/aciify)
 - 📫 How to reach me:
     <a href="https://www.linkedin.com/in/wesley-haagmans/">

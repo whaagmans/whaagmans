@@ -17,8 +17,7 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=whaagmans&theme=react&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whaagmans&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
-
 ### 🏆 GitHub Trophies
-[![](https://visitcount.itsvg.in/api?id=whaagmans&icon=9&color=1)](https://visitcount.itsvg.in)
 
+[![](https://visitcount.itsvg.in/api?id=whaagmans&icon=9&color=1)](https://visitcount.itsvg.in)
 ![](https://github-profile-trophy.vercel.app/?username=whaagmans&theme=discord&no-frame=true&no-bg=true&margin-w=4)

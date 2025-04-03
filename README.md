@@ -14,7 +14,7 @@
 ### 📊 GitHub Stats:
 
 ![](https://github-readme-stats.vercel.app/api?username=whaagmans&theme=react&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=whaagmans&theme=react&hide_border=true)<br/>
+![](https://streak-stats.demolab.com?user=whaagmans&theme=react&hide_border=true&exclude_days=Sun%2CSat)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=whaagmans&theme=react&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🏆 GitHub Trophies

@@ -1,7 +1,7 @@
 ## Hi, I'm Wesley Haagmans 👋
 
 - 🎓 I graduated in Software Engineering at Fontys University Eindhoven.
-- 💻 I’m currently working as a backend developer at [Blink](https://blink.nl/).
+- 💻 I’m a full-stack developer at [Blink](https://blink.nl/).
 - 🔭 My current hobby project is [Meeting Costs Calculator API](https://github.com/whaagmans/meeting-costs-calculator-api)
 - 📫 How to reach me:
     <a href="https://www.linkedin.com/in/wesley-haagmans/">
